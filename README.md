@@ -1,5 +1,6 @@
 # Introducción a Python - Curso Online
 
+
 ## Contenido del curso
 |  Días |  Temas | Subtemas  |
 |---|---|---|
@@ -15,3 +16,11 @@
 | __Día 8__ Miércoles 17 de febrero |  __Tema 10:__ Apertura de archivos                          |                                                                          |
 | __Día 9__ Jueves 18 de febrero    |  __Tema 11:__ Módulo de NumPy                               |                                                                          |
 | __Día 10__ Viernes 19 de febrero  |  __Tema 12:__ Gráficas con el módulo de Matplotlib          |                                                                          |
+
+
+## Instructores
+
+- [David Ángel Alba Bonilla](https://github.com/DavidAlba2627) - Estudiante de Ingeniería Física – 6to Semestre
+- [Edgar Lara Arellano](https://github.com/Edgar-La) - Estudiante de Ingeniería Física – 6to Semestre
+- [Miguel Ángel Hernández Tapia](https://github.com/MiguelAngel-ht) - Estudiante de Ingeniería Física – 6to Semestre
+- [Uriel Cárdenas Aguilar](https://github.com/Uriel148) - Estudiante de Ingeniería Física – 6to Semestre
