@@ -1,5 +1,6 @@
 # Introducción a Python - Curso Online
 
+Actualmente Python es uno de los lenguajes más demandados tanto en el ámbito laboral como en la investigación, esto debido a que tiene características muy interesantes tales como ser multiparadigma, multiplataforma y que cuenta con tipado dinámico. Debido a su alta popularidad, Python se ha convertido en un lenguaje bastante demandado. A pesar de que mucha gente tiene interés en aprender acerca de este lenguaje todavía hay muchos que no han incursionado en este, por esta razón se espera que, con este curso los participantes tengan bases sólidas y lo comiencen a aplicar en su día a día.
 
 ## Contenido del curso
 |  Días |  Temas | Subtemas  |
@@ -16,6 +17,15 @@
 | __Día 8__ Miércoles 17 de febrero |  __Tema 10:__ Apertura de archivos                          |                                                                          |
 | __Día 9__ Jueves 18 de febrero    |  __Tema 11:__ Módulo de NumPy                               |                                                                          |
 | __Día 10__ Viernes 19 de febrero  |  __Tema 12:__ Gráficas con el módulo de Matplotlib          |                                                                          |
+
+
+## Código de conducta
+
+
+
+## Código de honestidad
+Habrá ejercicios y desafíos propuestos que el estudiante deberá realizar, y aunque estos no sean obligatorios para recibir su certificado, será parte de su responsabilidad y honestidad.
+
 
 
 ## Instructores
