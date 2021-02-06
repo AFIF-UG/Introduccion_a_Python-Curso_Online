@@ -4,4 +4,4 @@
 
 ### Holaaaaaaa
 
-[link](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Carpeta_3/Untitled0.ipynb)
+[link](https://colab.research.google.com/drive/1HwbQ243nVjzm37mIB2LYxrxU5fCCmy_X#scrollTo=-J8MgnMii_jy)
