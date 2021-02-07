@@ -30,7 +30,7 @@ Por su comprensión, gracias. Le deseamos mucho éxito.
 
 
 ## Código de honestidad
-Habrá ejercicios y desafíos propuestos que el estudiante deberá realizar, y aunque estos no sean obligatorios para recibir su certificado, será parte de su responsabilidad y honestidad.
+Habrá ejercicios y desafíos propuestos que el estudiante deberá realizar, y aunque estos no sean _obligatorios_ para recibir su certificado, será parte de su __responsabilidad y honestidad__.
 
 
 
