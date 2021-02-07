@@ -1,7 +1,7 @@
 # Temas 
 ## __Tema 01:__ Clase introductoria
 * Breve reseña histórica. Clic para ver el [video]().
-* Herramientas a utilizar. Clic para ver el [video](https://drive.google.com/file/d/1aSRcPHJcxp1UpzF2AnP5bPXfgMxAIu9n/view?usp=sharing).
+* Herramientas a utilizar. Clic para ver el [video](https://drive.google.com/file/d/1TyWJ6yo0RM0rbUYM4NfHAWf9UrCNnl75/view?usp=sharing).
 
 
 ## __Tema 02:__ Imprimir en pantalla
