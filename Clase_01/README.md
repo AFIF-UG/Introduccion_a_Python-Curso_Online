@@ -9,7 +9,7 @@
 * Guardar strings en variables
 * Concatenar strings
 
-Clic para ver el [video]() del _Tema 02_.
+Clic para ver el [video](https://drive.google.com/file/d/1As1FtW33PD2JXOCxhVrA7mhDKQBjX7QH/view?usp=sharing) del _Tema 02_.
 
 ### Códigos
 [Código](https://colab.research.google.com/drive/1-KQVyLAXjBUxxC0OM87L8GrgJodjXAcA?usp=sharing) del _Tema 02_.
