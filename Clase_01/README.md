@@ -2,7 +2,7 @@
 ## __Tema 01:__ Clase introductoria
 * Breve reseña histórica. Clic para ver el [video]().
 * Herramientas a utilizar. Clic para ver el [video](https://drive.google.com/file/d/1TyWJ6yo0RM0rbUYM4NfHAWf9UrCNnl75/view?usp=sharing).
-* Utilizar Github. Clic para ver el [video]().
+* Utilizar Github. Clic para ver el [video](https://drive.google.com/file/d/1g1Jwe8Q3-iqBoCGrCbbxSnxJZTxFhdrK/view?usp=sharing).
 
 
 ## __Tema 02:__ Imprimir en pantalla
