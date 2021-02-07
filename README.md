@@ -20,7 +20,13 @@ Actualmente Python es uno de los lenguajes más demandados tanto en el ámbito l
 
 
 ## Código de conducta
+En la Asociación de Futuros Ingenieros Físicos, estamos comprometidos completamente con los valores humanos y su importancia dentro de las interacciones interpersonales.
 
+Por lo tanto, el curso de Introducción a Python se rige por estos mismos, así como por reglas de conducta apropiadas, en función de sacar el máximo provecho a las actividades realizadas, y generar un ambiente íntegro de aprendizaje y progreso. Así pues, solicitamos la colaboración de todos y cada uno de los participantes sin excepción, a respetar estos lineamientos establecidos.
+
+Cualquier falta de respeto o agresión hacia otro miembro tanto de la AFIF como participante inscrito al curso, será inadmisible y penalizada. Si usted víctima o presencia algún acto de esta índole, se solicita lo notifique de manera inmediata.
+
+Por su comprensión, gracias. Le deseamos mucho éxito.
 
 
 ## Código de honestidad
