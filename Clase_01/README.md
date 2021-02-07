@@ -12,7 +12,7 @@
 Clic para ver el [video]() del _Tema 02_.
 
 ### Códigos
-[Código]() del _Tema 02_.
+[Código](https://colab.research.google.com/drive/1-KQVyLAXjBUxxC0OM87L8GrgJodjXAcA#scrollTo=yDlAX9y2WZF-) del _Tema 02_.
 
 
 # Registro de aistencia
