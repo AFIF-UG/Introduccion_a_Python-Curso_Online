@@ -1,6 +1,6 @@
 # Temas 
 ## __Tema 01:__ Clase introductoria
-* Breve reseña histórica. Clic para ver el [video]().
+* Breve reseña histórica. Clic para ver el [video](https://drive.google.com/file/d/1DQ7Sd2FIhPDbLYBrDIbeYVOWtj7PJS10/view?usp=sharing).
 * Herramientas a utilizar. Clic para ver el [video](https://drive.google.com/file/d/1TyWJ6yo0RM0rbUYM4NfHAWf9UrCNnl75/view?usp=sharing).
 * Utilizar Github. Clic para ver el [video](https://drive.google.com/file/d/1g1Jwe8Q3-iqBoCGrCbbxSnxJZTxFhdrK/view?usp=sharing).
 
