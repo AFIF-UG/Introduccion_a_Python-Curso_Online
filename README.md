@@ -24,19 +24,19 @@ En la Asociación de Futuros Ingenieros Físicos, estamos comprometidos completa
 
 Por lo tanto, el curso de Introducción a Python se rige por estos mismos, así como por reglas de conducta apropiadas, en función de sacar el máximo provecho a las actividades realizadas, y generar un ambiente íntegro de aprendizaje y progreso. Así pues, solicitamos la colaboración de todos y cada uno de los participantes sin excepción, a respetar estos lineamientos establecidos.
 
-Cualquier falta de respeto o agresión hacia otro miembro tanto de la AFIF como participante inscrito al curso, será inadmisible y penalizada. Si usted víctima o presencia algún acto de esta índole, se solicita lo notifique de manera inmediata.
+Cualquier falta de respeto o agresión hacia algún miembro tanto de la AFIF, como participante inscrito al curso, será inadmisible y penalizada. De esta manera, solicitamos que no exista agresión hacia los otros participantes, y si eres víctima o presencias algún acto de esta índole, lo notifiques de manera inmediata.
 
-Por su comprensión, gracias. Le deseamos mucho éxito.
+Por su comprensión, gracias. Les deseamos mucho éxito.
 
 
 ## Código de honestidad
-Habrá ejercicios y desafíos propuestos que el estudiante deberá realizar, y aunque estos no sean _obligatorios_ para recibir su certificado, será parte de su __responsabilidad y honestidad__.
+Habrá ejercicios y desafíos propuestos que el estudiante deberá realizar, y aunque estos no sean _obligatorios_ para recibir su certificado, será parte de su __responsabilidad y honestidad__ realizarlos.
 
 
 
 ## Instructores
 
-- [David Ángel Alba Bonilla](https://github.com/DavidAlba2627) - Estudiante de Ingeniería Física – 6to Semestre
-- [Edgar Lara Arellano](https://github.com/Edgar-La) - Estudiante de Ingeniería Física – 6to Semestre
-- [Miguel Ángel Hernández Tapia](https://github.com/MiguelAngel-ht) - Estudiante de Ingeniería Física – 6to Semestre
-- [Uriel Cárdenas Aguilar](https://github.com/Uriel148) - Estudiante de Ingeniería Física – 6to Semestre
+- [David Ángel Alba Bonilla](https://github.com/DavidAlba2627) - Estudiante de Ingeniería Física
+- [Edgar Lara Arellano](https://github.com/Edgar-La) - Estudiante de Ingeniería Física
+- [Miguel Ángel Hernández Tapia](https://github.com/MiguelAngel-ht) - Estudiante de Ingeniería Física
+- [Uriel Cárdenas Aguilar](https://github.com/Uriel148) - Estudiante de Ingeniería Física
