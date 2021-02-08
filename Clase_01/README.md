@@ -16,7 +16,7 @@ Clic para ver el [video](https://drive.google.com/file/d/1As1FtW33PD2JXOCxhVrA7m
 [Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_01/Codigo_Tema_02.ipynb) del _Tema 02_.
 
 
-# Registro de aistencia
+# Registro de asistencia
 __OJO:__ _Recuerda que es muy importante que marques tu asistencia en el siguiente [registro](https://docs.google.com/forms/d/e/1FAIpQLSeID9_5yDVTnSS0PN8GVF_BjhkPd-w8-tUApaahLWkIojUrUQ/viewform?usp=sf_link)_.
 
 Esto debes hacerlo para c/u de las clases, tendrás un ventana de tiempo de __3 días__, es decir, para marcar tu asistencia del día _lunes_ tendrás como día límite hasta el día _miércoles_ (y así sucesivamente con las siguientes clases).
