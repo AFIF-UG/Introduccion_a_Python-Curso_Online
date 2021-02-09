@@ -12,16 +12,18 @@ Clic para ver el [video]() del _Tema 03_.
 
 
 ## __Tema 04:__ Conversión de datos
+* String a entero
+* Entero a string
 * String a flotante
 * Flotante a string
 
 
-Clic para ver el [video]() del _Tema 04_.
+Clic para ver el [video](https://drive.google.com/file/d/1kKnC9tydO_qvDsbcXhAnNmg_yYFEmR8z/view?usp=sharing) del _Tema 04_.
 
 ## Códigos
 [Código]() del _Tema 03_.
 
-[Código]() del _Tema 04_.
+[Código](https://colab.research.google.com/drive/1YEj5PNHkcD222LMHjLElzZORwQ8Fxu9c?usp=sharing) del _Tema 04_.
 
 
 # Registro de asistencia
