@@ -21,7 +21,7 @@ Clic para ver el [video](https://drive.google.com/file/d/1DmtQDmfBONdQZEHTOOjEEY
 Clic para ver el [video](https://drive.google.com/file/d/1kKnC9tydO_qvDsbcXhAnNmg_yYFEmR8z/view?usp=sharing) del _Tema 04_.
 
 ## Códigos
-[Código]() del _Tema 03_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_02/Codigo_Tema_3.ipynb) del _Tema 03_.
 
 [Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_02/Codigo_tema_4.ipynb) del _Tema 04_.
 
