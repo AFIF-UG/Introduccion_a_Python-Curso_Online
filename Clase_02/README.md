@@ -8,7 +8,7 @@
 * Diccionarios
 * Booleanos
 
-Clic para ver el [video]() del _Tema 03_.
+Clic para ver el [video](https://drive.google.com/file/d/1DmtQDmfBONdQZEHTOOjEEY8rE1bAzAmu/view?usp=sharing) del _Tema 03_.
 
 
 ## __Tema 04:__ Conversión de datos
