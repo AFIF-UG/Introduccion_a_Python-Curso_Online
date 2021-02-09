@@ -23,7 +23,7 @@ Clic para ver el [video](https://drive.google.com/file/d/1kKnC9tydO_qvDsbcXhAnNm
 ## Códigos
 [Código]() del _Tema 03_.
 
-[Código](https://colab.research.google.com/drive/1YEj5PNHkcD222LMHjLElzZORwQ8Fxu9c?usp=sharing) del _Tema 04_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_02/Codigo_tema_4.ipynb) del _Tema 04_.
 
 
 # Registro de asistencia
