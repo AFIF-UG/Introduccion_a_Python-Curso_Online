@@ -4,11 +4,11 @@ Operadores de
 * Comparación
 
 
-Clic para ver el [video]() del _Tema 06_.
+Clic para ver el [video](https://drive.google.com/file/d/1ZOoPLxYG-_p-o3MTe7D_S_tqdPfNDSRr/view?usp=sharing) del _Tema 06_.
 
 
 ## Código:
-[Código]() del _Tema 06_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_04/Codigo_Tema_6.ipynb) del _Tema 06_.
 
 
 
