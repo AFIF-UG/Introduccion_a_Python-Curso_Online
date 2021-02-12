@@ -9,7 +9,7 @@ Clic para ver el [video](https://drive.google.com/file/d/1LPfAALgQFXuMqVT6_wtm68
 
 
 ## Código:
-[Código]() del _Tema 07_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_05/Codigo_Tema_7.ipynb) del _Tema 07_.
 
 
 # Registro de asistencia
