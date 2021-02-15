@@ -4,11 +4,11 @@ Ciclos
 * while
 
 
-Clic para ver el [video]() del _Tema 08_.
+Clic para ver el [video](https://drive.google.com/file/d/1CPJlHWTVov4sGn35ZJVRsTA1RV8gQYlc/view?usp=sharing) del _Tema 08_.
 
 
 ## Código:
-[Código]() del _Tema 08_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_06/Codigo_Tema_08.ipynb) del _Tema 08_.
 
 
 # Registro de asistencia
