@@ -1,11 +1,11 @@
  # __Tema 09: Funciones__
 
 
-Clic para ver el [video]() del _Tema 09_.
+Clic para ver el [video](https://drive.google.com/file/d/1I0YbKLsD-rKHNIlsuYMYCBaKumAEzuPl/view?usp=sharing) del _Tema 09_.
 
 
 ## Código:
-[Código]() del _Tema 09_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_07/Codigo_tema_9.ipynb) del _Tema 09_.
 
 
 # Registro de asistencia
