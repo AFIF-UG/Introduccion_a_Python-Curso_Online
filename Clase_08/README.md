@@ -1,11 +1,11 @@
  # __Tema 10: Apertura de archivos__
 
 
-Clic para ver el [video]() del _Tema 10_.
+Clic para ver el [video](https://drive.google.com/file/d/12tqxxpRIVtLMU2TuPYI17xCX3S83dyIb/view?usp=sharing) del _Tema 10_.
 
 
 ## Código:
-[Código]() del _Tema 10_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_08/C%C3%B3digo__Tema_10.ipynb) del _Tema 10_.
 
 
 # Registro de asistencia
