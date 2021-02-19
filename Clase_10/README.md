@@ -7,12 +7,12 @@
 
 
 ## Códigos:
-* [Código1]() del _Tema 12_1_.
-* [Código2]() del _Tema 12_2_.
-* [Código3]() del _Tema 12_3_.
+* [Código1](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_10/Codigo_tema_12_1.ipynb) del _Tema 12_1_.
+* [Código2](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_10/Codigo_tema_12_2.ipynb) del _Tema 12_2_.
+* [Código3](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_10/Codigo_tema_12_3.ipynb) del _Tema 12_3_.
 
 ## Archivos:
-* [Archivo]() de datos para el _Código3_.
+* [Archivo](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_10/Archivo_datos.txt) de datos para el _Código3_.
 
 
 # Registro de asistencia
