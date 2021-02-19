@@ -1,4 +1,4 @@
- # __Tema 11: Módulo de Matplotlib__
+ # __Tema 12: Módulo de Matplotlib__
 
 ## Videos:
 * Clic para ver el [video1](https://drive.google.com/file/d/1oJ-P089MsuoYN6U3M2_FzfmRy8hozX4e/view?usp=sharing) del _Tema 12_1_.
