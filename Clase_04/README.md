@@ -4,7 +4,7 @@ Operadores de
 * Comparación
 
 
-Clic para ver el [video](https://drive.google.com/file/d/1ZOoPLxYG-_p-o3MTe7D_S_tqdPfNDSRr/view?usp=sharing) del _Tema 06_.
+Clic para ver el [video](https://youtu.be/Akl4V8O9Wvk) del _Tema 06_.
 
 
 ## Código:
