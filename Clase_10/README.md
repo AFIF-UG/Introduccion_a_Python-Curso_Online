@@ -16,4 +16,4 @@
 
 
 # Registro de asistencia
-__OJO:__ _Recuerda que es muy importante que marques tu asistencia en el siguiente [registro](https://docs.google.com/forms/d/e/1FAIpQLSeo5T-tNB4SXT5XzeHVC2KGY8UYBXUL2QbtWC_w8pCC3Enuaw/viewform?usp=sf_link)_.
+__OJO:__ _Recuerda que es muy importante que marques tu asistencia en el siguiente [registro](https://docs.google.com/forms/d/e/1FAIpQLSeSOpAxjqWJORCfrbwnkqmwWva1z8R66CM713dHN7ipzXrIfg/viewform?usp=sf_link)_.
